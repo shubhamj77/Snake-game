@@ -20,8 +20,7 @@ Installation
 Clone this repository:
 
 bash
-git clone https://github.com/yourusername/snake-game.git
-cd snake-game
+git clone (https://github.com/shubhamj77/Snake-game/edit/main/README.md)
 Install dependencies:
 
 bash
